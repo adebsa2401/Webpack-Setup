@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-[https://adebsa2401.github.io/Webpack-Setup](https://adebsa2401.github.io/Webpack-Setup)
+[https://adebsa2401.github.io/Webpack-Setup/dist](https://adebsa2401.github.io/Webpack-Setup/dist)
 
 ## Getting Started
 
